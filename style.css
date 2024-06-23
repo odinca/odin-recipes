@@ -1,0 +1,10 @@
+/* style */
+
+body {
+    font-family: sans-serif;
+    background-color: beige;
+}
+
+.recipe-description {
+    font-style: italic;
+}
